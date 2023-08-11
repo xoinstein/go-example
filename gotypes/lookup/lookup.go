@@ -65,7 +65,7 @@ func main() {
 
 /*
 //!+output
-$ go build golang.org/x/example/gotypes/lookup
+$ go build github.com/xoinstein/go-example/gotypes/lookup
 $ ./lookup
 At hello.go:6:1,        "append" = builtin append
 At hello.go:8:9,        "fmt" = package fmt

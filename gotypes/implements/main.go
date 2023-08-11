@@ -68,7 +68,7 @@ func main() {
 
 /*
 //!+output
-$ go build golang.org/x/example/gotypes/implements
+$ go build github.com/xoinstein/go-example/gotypes/implements
 $ ./implements
 *hello.A satisfies hello.I
 hello.B satisfies hello.I

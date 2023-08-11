@@ -52,7 +52,7 @@ func main() {
 
 /*
 //!+output
-$ go build golang.org/x/example/gotypes/pkginfo
+$ go build github.com/xoinstein/go-example/gotypes/pkginfo
 $ ./pkginfo
 Package  "cmd/hello"
 Name:    main

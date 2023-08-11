@@ -7,7 +7,7 @@
 // It serves version information on /version and answers
 // any other request like /name by saying "Hello, name!".
 //
-// See golang.org/x/example/outyet for a more sophisticated server.
+// See github.com/xoinstein/go-example/outyet for a more sophisticated server.
 package main
 
 import (

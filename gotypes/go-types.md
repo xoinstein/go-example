@@ -117,7 +117,7 @@ the _hello, world_ program, supplied as a string.
 Later examples will be variations on this one, and we'll often omit
 boilerplate details such as parsing.
 To check out and build the examples,
-run `go get golang.org/x/example/gotypes/...`.
+run `go get github.com/xoinstein/go-example/gotypes/...`.
 
 
 %include pkginfo/main.go
